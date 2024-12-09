@@ -1,2 +1,2 @@
 # rb-app-1
-Elastic-b
+Elastic beanstalk app 1
