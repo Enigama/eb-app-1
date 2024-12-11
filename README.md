@@ -1,2 +1,2 @@
-# rb-app-1
-Elastic beanstalk app 1
+# eb-app-1
+Elastic beanstalk app 1 for node.js
